@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		39D618131E9B72E0002784BC /* dev2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39D618121E9B72E0002784BC /* dev2ViewController.swift */; };
 		39FACDA01E9B6FAF00EF9F02 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39FACD9F1E9B6FAF00EF9F02 /* AppDelegate.swift */; };
 		39FACDA21E9B6FAF00EF9F02 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39FACDA11E9B6FAF00EF9F02 /* ViewController.swift */; };
 		39FACDA51E9B6FAF00EF9F02 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39FACDA31E9B6FAF00EF9F02 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		39D618121E9B72E0002784BC /* dev2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = dev2ViewController.swift; sourceTree = "<group>"; };
 		39FACD9C1E9B6FAF00EF9F02 /* learnDev1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = learnDev1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		39FACD9F1E9B6FAF00EF9F02 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		39FACDA11E9B6FAF00EF9F02 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				39FACD9F1E9B6FAF00EF9F02 /* AppDelegate.swift */,
 				39FACDA11E9B6FAF00EF9F02 /* ViewController.swift */,
+				39D618121E9B72E0002784BC /* dev2ViewController.swift */,
 				39FACDA31E9B6FAF00EF9F02 /* Main.storyboard */,
 				39FACDA61E9B6FAF00EF9F02 /* Assets.xcassets */,
 				39FACDA81E9B6FAF00EF9F02 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				39FACDA21E9B6FAF00EF9F02 /* ViewController.swift in Sources */,
+				39D618131E9B72E0002784BC /* dev2ViewController.swift in Sources */,
 				39FACDA01E9B6FAF00EF9F02 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -301,6 +305,7 @@
 				39FACDB01E9B6FAF00EF9F02 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
